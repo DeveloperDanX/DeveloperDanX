@@ -16,10 +16,4 @@ I'm Dan from Spain, and I develop mobile and web apps for humans. I really enjoy
 ![image alt >](https://github.com/DeveloperDanX/chat-app/blob/master/chat-app-react-socketio-node-exp.gif)
 ![image alt <](https://github.com/DeveloperDanX/Netflix_Clone/blob/master/Netflix-App-React-Native.gif)
 
-img[alt$=">"] {
-  float: right;
-}
-
-img[alt$="<"] {
-  float: left;
-}
+<img align="left" width="50" height="50" src="https://github.com/DeveloperDanX/chat-app/blob/master/chat-app-react-socketio-node-exp.gif">
