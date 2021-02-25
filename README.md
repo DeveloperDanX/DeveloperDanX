@@ -8,3 +8,6 @@ I'm Dan from Spain, and I develop mobile and web apps for humans. I really enjoy
 * ⚛️ React
 * 📱 React Native
 * 💻 HTML, CSS, JavaScript, TypeScript
+
+## Currently Learning
+* ⌨️ SwiftUI ('React Native on Steroids')
