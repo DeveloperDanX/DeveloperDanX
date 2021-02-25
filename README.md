@@ -11,3 +11,15 @@ I'm Dan from Spain, and I develop mobile and web apps for humans. I really enjoy
 
 ## Currently Learning
 * ⌨️ SwiftUI ('React Native on Steroids')
+
+## Examples of Work
+![image alt >](https://github.com/DeveloperDanX/chat-app/blob/master/chat-app-react-socketio-node-exp.gif)
+![image alt <](https://github.com/DeveloperDanX/Netflix_Clone/blob/master/Netflix-App-React-Native.gif)
+
+img[alt$=">"] {
+  float: right;
+}
+
+img[alt$="<"] {
+  float: left;
+}
