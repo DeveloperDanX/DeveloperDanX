@@ -1,4 +1,4 @@
-![DeveloperDanX]('https://github.com/DeveloperDanX/DeveloperDanX/blob/main/DevelopeDanX%20github%20profile.jpg')
+![DeveloperDanX](https://github.com/DeveloperDanX/DeveloperDanX/blob/main/DevelopeDanX%20github%20profile.jpg)
 
 ### Hi there 👋
 
