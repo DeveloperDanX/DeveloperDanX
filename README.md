@@ -15,7 +15,7 @@ I'm Dan from Spain, and I develop mobile and web apps for humans. I really enjoy
 ## Examples of Work
 
 ### BeeBee Arcade Game, built with SwiftUI
-![beebee-arcade-game](https://github.com/DeveloperDanX/beebee/blob/master/BeeBeeArcadeGame.gif)
+![beebee-arcade-game](https://github.com/DeveloperDanX/beebee/blob/master/BeeBeeArcadeGame.gif | width=50%)
 
 &nbsp;
 
