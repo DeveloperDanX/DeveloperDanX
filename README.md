@@ -14,13 +14,18 @@ I'm Dan from Spain, and I develop mobile and web apps for humans. I really enjoy
 
 ## Examples of Work
 
+### BeeBee Arcade Game, built with SwiftUI
+![beebee-arcade-game](https://github.com/DeveloperDanX/beebee/blob/master/BeeBeeArcadeGame.gif)
+
+&nbsp;
+
 ### Full Stack App, with React, Node.js, Espress, Socket.io
-![image alt >](https://github.com/DeveloperDanX/chat-app/blob/master/chat-app-react-socketio-node-exp.gif)
+![chat-app](https://github.com/DeveloperDanX/chat-app/blob/master/chat-app-react-socketio-node-exp.gif)
 
 &nbsp;
 
 ### Netflix CLone App with React Native
-![image alt <](https://github.com/DeveloperDanX/Netflix_Clone/blob/master/Netflix-App-React-Native.gif)
+![netflix-clone-react-native](https://github.com/DeveloperDanX/Netflix_Clone/blob/master/Netflix-App-React-Native.gif)
 
 
 
